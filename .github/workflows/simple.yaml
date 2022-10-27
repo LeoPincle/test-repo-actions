@@ -17,3 +17,4 @@ jobs:
           import platform
           print(platform.processor())
           print("Hello")
+        shell: python
